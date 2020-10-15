@@ -1,4 +1,4 @@
-# from-parselsorgu-to-kmz
+# from-tkgm-to-kmz
 
 ![alt text](img/tkgm.png "TKGM")
 
