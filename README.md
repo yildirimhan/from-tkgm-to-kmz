@@ -2,7 +2,7 @@
 
 ![alt text](img/tkgm.png "TKGM")
 
-The intention of the tool is to provide direct conversion of utm coordinates to .kmz files to be read over Google Earth software.
+The intention of the tool is to provide direct conversion of parselsorgu coordinates to .kmz files to be read over Google Earth software.
 
 # Usage
 
